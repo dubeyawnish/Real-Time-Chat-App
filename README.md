@@ -4,7 +4,7 @@
 ### Socket.IO Real-Time Chat  ### 
    Jan, 2023 
 
-![picture alt](https://github.com/dubeyawnish/Real-Time-Chat-App/blob/main/frontend/src/images/Screenshot%20(43).png "Chat")
+
    
 ### FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE ###
 Real-Time Chat is powered by Socket.IO. is a web application that allows to connect multiple users at a time to chat.
