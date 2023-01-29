@@ -1,5 +1,5 @@
 # Real-Time-Chat-App
-## Welcome to Private and Public Chat Socket.IO App by Wilbert Muza ##
+## Welcome to Real Time Chat App Using Socket.IO By Awnish Dubey##
 
 ### Socket.IO Real-Time Chat  ### 
    Jan, 2023 
@@ -27,7 +27,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 
 	```
 	$ git clone https://github.com/dubeyawnish/Real-Time-Chat-App.git
-	$ cd SocketIO-Chat-App
+	$ cd Real-Time-Chat-App
 	```
 2. Install Dependencies
 
